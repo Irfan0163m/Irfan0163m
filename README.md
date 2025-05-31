@@ -1,6 +1,7 @@
 ## 👋 Hello World! I'm Irfan Muzaki
 
-![Irfan Muzaki](img/fan0163m.jpg)
+![fan0163m](https://github.com/user-attachments/assets/cb86a7f1-ff99-4329-a642-878a0ad107b5)
+
 
 <!--
 **Irfan0163m/Irfan0163m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
