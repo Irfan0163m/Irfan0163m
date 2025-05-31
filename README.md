@@ -1,3 +1,4 @@
 ## 👋 Hello World! I'm Irfan Muzaki
 
-https://images.app.goo.gl/fTTZ3F3hpPgagvFy8
+![My Banner](https://raw.githubusercontent.com/Irfan0163m/NAMA-REPO/main/assets/nama-gambar.jpg)
+
