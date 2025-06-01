@@ -1,6 +1,7 @@
 ## 👋 Hello World! I'm Irfan Muzaki
 
-![Uploading banner.jpg…]()
+![github-header-image](https://github.com/user-attachments/assets/308201a9-7510-4f1e-85cc-ef4710a161c4)
+
 
 Skill
 
