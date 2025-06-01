@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Irfan Muzaki
 
-![github-header-image](https://github.com/user-attachments/assets/308201a9-7510-4f1e-85cc-ef4710a161c4)
+![github-header-image (1)](https://github.com/user-attachments/assets/e8151e08-7578-4924-a77e-a391b4a75c20)
 
 
 Skill
