@@ -4,6 +4,14 @@
 
 ---
 
+### 📚 About Me
+
+Saya adalah **mahasiswa S1 Teknik Informatika** di **Universitas Muhammadiyah**, saat ini sedang menempuh **semester 6**.  
+Saya fokus mendalami bidang **data dan jaringan komputer**, serta memiliki minat besar untuk berkarir sebagai seorang **Network Engineer**.  
+Saat ini saya sedang dalam proses belajar mendalam tentang jaringan komputer, baik secara teori maupun praktik, untuk mendukung cita-cita saya menjadi seorang Network Engineer profesional.
+
+---
+
 ### 🚀 Skills
 
 ![Computer Network](https://img.shields.io/badge/Computer%20Network-%23007ACC?style=for-the-badge&logo=cisco&logoColor=white)
@@ -13,19 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MikroTik](https://img.shields.io/badge/MikroTik-%23000?style=for-the-badge&logo=mikrotik&logoColor=white)
 
-<!-- Badges Placeholder -->
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-
 ---
 
-✨ Feel free to connect with me!
+✨ **Let's connect and grow together!**
