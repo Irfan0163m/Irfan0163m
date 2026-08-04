@@ -6,7 +6,7 @@
 
 I am a final-year Computer Science student with approximately **1.5 years of experience in IT Support**. My interests include computer networking, cybersecurity, system administration, and application development.
 
-I hold a **MikroTik Certified Network Associate (MTCNA)** certification and have practical experience in troubleshooting hardware, software, network connectivity, and user-support issues.
+I hold a **MikroTik Certified Network Associate (MTCNA)** certification and have practical experience in troubleshooting hardware, software, network connectivity, and user support issues.
 
 Currently, I am expanding my knowledge in cybersecurity while developing applications using Flutter, Flask, Python, and machine learning technologies.
 
@@ -71,7 +71,7 @@ To build a career as an **IT Infrastructure, Network, or Cybersecurity Professio
 
 ### CitraScan
 
-A mobile-based image classification application developed to identify poultry health conditions from chicken fecal images.
+CitraScan is a mobile-based image classification application developed to identify poultry health conditions using chicken fecal images.
 
 **Main technologies:**
 
@@ -84,8 +84,8 @@ A mobile-based image classification application developed to identify poultry he
 **Main features:**
 
 * Image upload and validation
-* Classification into four condition categories
-* Confidence scores and class probabilities
+* Classification into four poultry health condition categories
+* Confidence scores and probability values for each class
 * Non-relevant image rejection
 * Classification history and dashboard summaries
 
@@ -106,16 +106,16 @@ Designed and configured network topologies using MikroTik and Cisco networking t
 
 ## GitHub Statistics
 
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&hide_border=true)
+![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact\&hide_border=true)
 
 ---
 
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR-INSTAGRAM-URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:irfanmuzaki050903@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/irfan_0163m/)
 
 Open to professional networking, technology collaborations, and opportunities in **IT Support, Networking, IT Infrastructure, and Cybersecurity**.
