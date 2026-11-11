@@ -104,14 +104,6 @@ Designed and configured network topologies using MikroTik and Cisco networking t
 
 ---
 
-## GitHub Statistics
-
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan0163m&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan0163m&layout=compact&hide_border=true&theme=transparent&langs_count=8)
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/irfan-muzaki-866136337)
