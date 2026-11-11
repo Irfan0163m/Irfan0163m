@@ -108,6 +108,6 @@ Designed and configured network topologies using MikroTik and Cisco networking t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/irfan-muzaki-866136337)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:irfanmuzaki050903@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/irfan_0163m/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/irfan_016m/)
 
 Open to professional networking, technology collaborations, and opportunities in **IT Support, Networking, IT Infrastructure, and Cybersecurity**.
