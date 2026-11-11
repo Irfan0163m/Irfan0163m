@@ -104,11 +104,10 @@ Designed and configured network topologies using MikroTik and Cisco networking t
 
 ---
 
-## GitHub Statistics
 
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&hide_border=true)
+## GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Irfan0163m&theme=transparent&hide_border=true)
 
 ---
 
