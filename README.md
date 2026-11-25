@@ -1,112 +1,83 @@
-![GitHub Header](./Black%20Modern%20Minimal%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+<p align="center">
+  <img src="./banner.png" alt="Irfan Muzaki - GitHub Profile Banner" width="100%">
+</p>
 
-## About Me
+# Hi, I'm Irfan 👋
 
-I am a final-year Computer Science student with approximately **1.5 years of experience in IT Support**. My interests include computer networking, cybersecurity, system administration, and application development.
+Final-year Computer Science student with **~1.5 years of IT Support experience**, focused on networking, cybersecurity, and application development.
 
-I hold a **MikroTik Certified Network Associate (MTCNA)** certification and have practical experience in troubleshooting hardware, software, network connectivity, and user support issues.
-
-Currently, I am expanding my knowledge in cybersecurity while developing applications using Flutter, Flask, Python, and machine learning technologies.
-
-### Current Focus
-
-* Strengthening networking and cybersecurity fundamentals
-* Learning system and network security practices
-* Developing mobile and web-based applications
-* Improving Linux, Python, and network troubleshooting skills
-* Preparing for a professional career in IT infrastructure and cybersecurity
-
-### Career Goal
-
-To build a career as an **IT Infrastructure, Network, or Cybersecurity Professional** capable of maintaining reliable systems, securing network environments, and solving technical problems effectively.
+- 🎓 **MikroTik Certified Network Associate (MTCNA)**
+- 🔧 Hands-on troubleshooting: hardware, software, network connectivity, and user support
+- 🌱 Currently learning: cybersecurity, Linux, and network security practices
+- 🎯 Goal: IT Infrastructure, Network, or Cybersecurity Professional
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Networking & Infrastructure
+**Networking & Infrastructure**
 
-![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=for-the-badge\&logo=mikrotik\&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-F7931A?style=for-the-badge)
-![Network Troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-005571?style=for-the-badge)
-![Firewall](https://img.shields.io/badge/Firewall-FF6D00?style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square)
 
-### Development
+**Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Data & Machine Learning
+**Data & Machine Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Tools
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Certifications
+## 🚀 Featured Projects
 
-* **MikroTik Certified Network Associate — MTCNA**
-* Additional networking and cybersecurity certifications in progress
+### 📱 CitraScan
 
----
+A mobile app that classifies poultry health conditions from chicken fecal images.
 
-## Featured Projects
+| | |
+|---|---|
+| **Mobile** | Flutter, Dart |
+| **Backend** | Python, Flask (REST API) |
+| **Model** | TensorFlow, InceptionV3 (transfer learning) |
+| **Storage** | SQLite (classification history) |
 
-### CitraScan
+**Features**
 
-CitraScan is a mobile-based image classification application developed to identify poultry health conditions using chicken fecal images.
+- Image upload and validation
+- Classification into four poultry health categories
+- Confidence score and probability for each class
+- Rejection of non-relevant images
+- Classification history and dashboard summary
 
-**Main technologies:**
+### 🌐 Network Infrastructure Practice
 
-* Flutter and Dart for the mobile application
-* Python and Flask for the backend API
-* TensorFlow and InceptionV3 for image classification
-* SQLite for classification history
-* REST API communication between the mobile application and backend
-
-**Main features:**
-
-* Image upload and validation
-* Classification into four poultry health condition categories
-* Confidence scores and probability values for each class
-* Non-relevant image rejection
-* Classification history and dashboard summaries
-
-### Network Infrastructure Practice
-
-Designed and configured network topologies using MikroTik and Cisco networking tools.
-
-**Topics covered:**
-
-* IP addressing and subnetting
-* VLAN configuration
-* Routing and network segmentation
-* Bandwidth management
-* Firewall configuration
-* Network monitoring and troubleshooting
+Network topologies designed and configured with MikroTik and Cisco tools, covering IP addressing and subnetting, VLAN, routing and segmentation, bandwidth management, firewall, and monitoring and troubleshooting.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-muzaki-866136337)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanmuzaki050903@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fann.latte22)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dailynetwork.id)
+Open to networking, collaborations, and opportunities in **IT Support, Networking, IT Infrastructure, and Cybersecurity**.
 
-Open to professional networking, technology collaborations, and opportunities in **IT Support, Networking, IT Infrastructure, and Cybersecurity**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-muzaki-866136337)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:irfanmuzaki050903@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fann.latte22)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dailynetwork.id)
