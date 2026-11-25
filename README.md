@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Irfan Muzaki
-
 ![GitHub Header](./Black%20Modern%20Minimal%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 ## About Me
