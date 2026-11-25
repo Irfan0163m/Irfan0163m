@@ -20,9 +20,6 @@ Informatics graduate (S.Kom, GPA 3.76) with IT Support experience focused on Mik
 - Handled installation, configuration, and routine maintenance of printers, applications, and operating systems
 - Performed regular data backups and managed new user accounts
 
-**Printer Technician** | Kian Printer, Semarang
-*August 2023 - October 2023*
-
 ---
 
 ## Certifications
